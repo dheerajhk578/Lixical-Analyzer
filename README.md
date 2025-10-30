@@ -80,3 +80,11 @@ This project helped in understanding:
 * **Tokenization and pattern matching** using C.
 * How to handle **file input and string parsing** efficiently.
 
+ ### Author
+
+Dheeraj H K
+
+GitHub: @dheerajhk578
+
+Email: dheerajhk578@gmail.com
+
