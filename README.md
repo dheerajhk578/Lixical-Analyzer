@@ -80,7 +80,3 @@ This project helped in understanding:
 * **Tokenization and pattern matching** using C.
 * How to handle **file input and string parsing** efficiently.
 
----
-
-Would you like me to make this README **more formal and formatted for LinkedIn showcase (with emojis and sections)** or **simpler for a GitHub repository (clean technical style)**?
-
